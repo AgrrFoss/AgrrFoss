@@ -1,4 +1,4 @@
-<h1 align="center"> Приветвую, я Григорий!<h1>
+<h1 align="center"> 𝐇𝐢! 𝐈'𝐦 𝐆𝐫𝐞𝐠𝐨𝐫𝐲<h1>
 
 ### Hi there 👋
 

@@ -24,5 +24,4 @@
 <h3>Другие технологии</h3>
 <img src="https://miro.medium.com/max/1400/1*Z8fmcF-qgThBzrh-yyvSjw.png" alt="Логотип Git" width="100px">
 
-
-https://www.codewars.com/users/AgrrFoss/badges/large
+[![codewars](https://www.codewars.com/users/AgrrFoss/badges/small)](https://www.codewars.com/users/AgrrFoss)

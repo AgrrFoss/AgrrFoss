@@ -2,5 +2,10 @@
 
 <h2> Начинающий фронтэнд разработчик, стремлюсь покорить мир веб-разработки</h2>
  <p> Закончил обучение в Яндекс.Практикум, сейчас самостоятельно продолжаю изучение. Закрепляю уже пройденное и осваиваю новое.</p>
+ 
+ <h2>Стек технологий в которых работал последнее время</h2>
+ <h3> Для дизайна и работы с макетами </h3>
+ ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)

@@ -24,4 +24,9 @@
 <h3>Другие технологии</h3>
 <img src="https://miro.medium.com/max/1400/1*Z8fmcF-qgThBzrh-yyvSjw.png" alt="Логотип Git" width="100px">
 
+<h2>Меня интересует</h2>
+
+Новые проекты, которые позволят прокачать свои навыки в работе во фронтэнде. В идеале хочется работать в команде с опытными разработчиками,чтобы открывать для себя новое, учиться у лушчих.
+Сейчас ищу стажировку или работу джуном, в свободное время решаю задачки на  codeWars и разбираюсь более подробно с wordPress.
+
 [![codewars](https://www.codewars.com/users/AgrrFoss/badges/small)](https://www.codewars.com/users/AgrrFoss)

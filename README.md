@@ -22,4 +22,4 @@
  Немного знаком с ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) и ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 <h3>Другие технологии</h3>
-<img src="https://fuzeservers.ru/wp-content/uploads/e/4/5/e4553ab0cd4508104a3196729458afab.png" alt="Логотип Git" width="100px">
+<img src="https://miro.medium.com/max/1400/1*Z8fmcF-qgThBzrh-yyvSjw.png" alt="Логотип Git" width="100px">

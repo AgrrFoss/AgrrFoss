@@ -25,6 +25,7 @@ telegram: https://t.me/Prosto_GraFF
  </ul>
 
  <h2>Стек технологий, с которыми работал последнее время</h2>
+ Это можно не смотреть, обновлял когда только закончил практикум, сейчас лень искать картинки.
  <h3> Для дизайна и работы с макетами </h3>
  
  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)

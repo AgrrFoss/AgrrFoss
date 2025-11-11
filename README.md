@@ -18,6 +18,8 @@ telegram: https://t.me/Prosto_GraFF
   <li>Nest.js</li>
   <li>PostgreSQL</li>
   <li>PayloadCMS</li>
+  <li>TypeScript</li>
+  <li>Taylwind</li>
   <li>MongoDB - немного затрагивал на одном проекте</li>
   <li>Верстка адаптивных кросс-браузерных веб-приложений</li>  
  </ul>
